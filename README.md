@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreTeixeirax8
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in TypeScript
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on TypeScript
 - 📫 How to reach me andre-x8@hotmail.com
 
 <!---
