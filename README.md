@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on TypeScript
 - 📫 How to reach me andre-x8@hotmail.com
+- [![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=whit)](#)
 
 <!---
 AndreTeixeirax8/AndreTeixeirax8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
