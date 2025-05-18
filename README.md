@@ -50,8 +50,6 @@
   </a>
 </div>
 
-![Snake](https://github.com/AndreTeixeirax8/AndreTeixeirax8/blob/output/github-contribution-grid-snake.svg)
-
 
 ###
 
